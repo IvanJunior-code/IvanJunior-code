@@ -19,7 +19,7 @@ Analista de sistemas, estudante de Cloud e DevOps, em busca de novos desafios ðŸ
 
 ### Outras formas de contato
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/+5519993314719)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@ivanzinho./)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@ivan.junior.ti/)
 
 ## GitHub
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IvanJunior-code)
